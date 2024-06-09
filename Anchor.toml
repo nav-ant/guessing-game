@@ -7,7 +7,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-orao_vrf = "HMDRWmYvL2A9xVKZG8iA1ozxi4gMKiHQz9mFkURKrG4"
+orao_vrf = "31H9FMCfroiY29s5L4ibYjfBQRgvbtGnQ8x75t4wK4f6"
 
 [registry]
 url = "https://api.apr.dev"
