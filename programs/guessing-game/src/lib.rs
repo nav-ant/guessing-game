@@ -10,7 +10,7 @@ use orao_solana_vrf::{
 pub mod misc;
 use self::misc::get_account_data;
 
-declare_id!("HMDRWmYvL2A9xVKZG8iA1ozxi4gMKiHQz9mFkURKrG4"); // ! UPDATE ME
+declare_id!("31H9FMCfroiY29s5L4ibYjfBQRgvbtGnQ8x75t4wK4f6");
 
 #[program]
 pub mod guessing_game {
